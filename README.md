@@ -5,5 +5,5 @@ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-start
 **Bold** Ik' Tryk på Link ;) text.
 https://www.youtube.com/watch?v=xvFZjo5PgG0
 ## Formatting Examples:
-1. *Italic* emphasis.
-2. **Bold** emphasis.
+1. *Italic* Emphasis.
+2. **Bold** Emphasis.

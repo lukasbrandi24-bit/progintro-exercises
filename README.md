@@ -5,6 +5,5 @@ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-start
 **Bold** Ik' Tryk på Link ;) text.
 https://www.youtube.com/watch?v=xvFZjo5PgG0
 ## Formatting Examples:
-1. *Italic* text. ja please
-2. **Bold** Text.Kommer der en fejl mhm
-gør der mon det?
+1. *Italic* Text. Nu burde virke
+2. **Bold** Text.
